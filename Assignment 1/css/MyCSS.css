@@ -1,6 +1,6 @@
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-    
+    background-color: #D0D0D0
 }
 
 .navbar-fixed-top .nav {
@@ -9,6 +9,11 @@ body {
 
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
+}
+
+.navbar-nav{
+ font-weight: bold;
+
 }
 
 footer {
